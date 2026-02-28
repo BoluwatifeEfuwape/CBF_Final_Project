@@ -1,0 +1,6 @@
+flask
+flask-cors
+mysql-connector-python
+pip install flask-bcrypt pyjwt
+flask-bcrypt
+pyjwt
