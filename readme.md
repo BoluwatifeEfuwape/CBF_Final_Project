@@ -31,6 +31,10 @@ todo-api/
     ├── __init__.py
     ├── todos.py           # Todo endpoints
     └── users.py           # Authentication endpoints
+└── services/
+    ├── db_config_service.py           # Todo endpoints
+    ├── todo_service.py
+    └── user_service.py           
 ```
 
 ## Database Schema
